@@ -1,0 +1,23 @@
+{
+  "name": "price-currencies-ve",
+  "description": "Currencies price in Venezuela (BCV)",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "keywords": [
+    "venezuela",
+    "bcv",
+    "currency"
+  ],
+  "engines": {
+    "node": "12"
+  },
+  "main": "lib/index.js",
+  "author": "rbhlrn@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}

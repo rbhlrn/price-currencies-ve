@@ -24,7 +24,7 @@ npm i price-currencies-ve
 ## Usage
 ```js
 // ES6 or TypeScript:
-import { getAll, getOne} from 'price-currencies-ve';
+import { getAll, getOne } from 'price-currencies-ve';
 
 getAll().then(data => console.log(data))
 getOne('dollar').then(data => console.log(data))

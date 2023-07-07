@@ -1,7 +1,7 @@
 {
   "name": "price-currencies-ve",
   "description": "Currencies price in Venezuela (BCV)",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "scripts": {
     "start": "node index.js"
   },
@@ -11,7 +11,7 @@
     "currency"
   ],
   "engines": {
-    "node": "12"
+    "node": "^16"
   },
   "main": "index.js",
   "author": "rbhlrn@gmail.com",
